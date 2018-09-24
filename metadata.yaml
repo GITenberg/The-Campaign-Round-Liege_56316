@@ -1,5 +1,8 @@
 _repo: The-Campaign-Round-Liege_56316
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56316-h/images/cover.jpg
 creator:
   author:
     agent_name: Kennedy, J. M. (John McFarland)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '7863'
     url: http://www.gutenberg.org/2009/agents/7863
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56316#The-Campaign-Round-Liege
 gutenberg_issued: '2018-01-05'
 gutenberg_type: Text
 identifiers:
